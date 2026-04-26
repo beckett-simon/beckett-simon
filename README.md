@@ -1,16 +1,19 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**beckett-simon/beckett-simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **beckett-simon**, a software craftsman.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Code is poetry
+- 🌟 Open source enthusiast
+- 🧠 Lifelong learner
+- 🤔 Exploring new technologies
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`React` `Django` `PostgreSQL` `Emacs` `Remix`
+
+---
+
+_Build > talk._
